@@ -8,7 +8,7 @@ public class main
 		
 		int a =2;
 		int b =10;
-		int c =6;
+		int c =25;
 		
 			if(a>b & a>c) 
 				{
